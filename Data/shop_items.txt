@@ -1,0 +1,6 @@
+Potion - 50 points - Restores health;
+Sword - 100 points - Increases attack by 5;
+Shield - 100 points - Reduces damage by 5;
+Greatsword - 200 points - Increases attack by 10;
+Heavy Armor - 200 points - Reduces damage by 10;
+
