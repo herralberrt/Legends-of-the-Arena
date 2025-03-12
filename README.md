@@ -38,7 +38,7 @@
 2. Open a terminal and navigate to the project folder.
 3. Run the game with the command:
    ```sh
-   python game.py
+   python3 game.py
    ```
 
 ## Controls
