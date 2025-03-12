@@ -1,9 +1,9 @@
 # Legends of the Arena -> Powered by Romaniuc Albert-Iulian
 
 """
-Battle Quest: The Arena - Game Description 
+Legends of the Arena - Game Description 
 
-Welcome to Battle Quest: The Arena, a turn-based RPG where you fight against powerful enemies, upgrade your character, and survive as long as possible!
+Welcome to Legends of the Arena, a turn-based RPG where you fight against powerful enemies, upgrade your character, and survive as long as possible!
 
 How to Play:
 1. Choose Your Character - Pick from a variety of heroes, each with unique stats and special abilities.
