@@ -1,0 +1,5 @@
+Goblin - HP: 90, Attack: 14, Special: Poison Strike;
+Vampire - HP: 120, Attack: 22, Special: Life Drain;
+Dragon - HP: 150, Attack: 18, Special: Flame Breath;
+Golem - HP: 180, Attack: 12, Special: Stone Shield;
+
