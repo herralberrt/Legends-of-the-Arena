@@ -1,1 +1,7 @@
+Warrior - HP: 100, Attack: 20, Special: Power Strike;
+Mage - HP: 80, Attack: 25, Special: Fireball;
+Orc - HP: 120, Attack: 15, Special: Rage Mode;
+Paladin - HP: 110, Attack: 18, Special: Holy Light;
+Assassin - HP: 90, Attack: 22, Special: Shadow Strike;
+
 
