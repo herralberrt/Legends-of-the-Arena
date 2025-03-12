@@ -1,0 +1,5 @@
+1 - Attack;
+2 - Drink a potion;
+3 - Defend;
+4 - Use Special Ability;
+
