@@ -1,7 +1,7 @@
-# Battle Quest: The Arena - README
+# Legends of the Arena - README
 
 ## Overview
-**Battle Quest: The Arena** is a turn-based RPG where you battle against powerful enemies, upgrade your character, and survive for as long as possible. Defeat enemies, earn points, and purchase items to enhance your abilities in this endless combat challenge!
+**Legends of the Arena** is a turn-based RPG where you battle against powerful enemies, upgrade your character, and survive for as long as possible. Defeat enemies, earn points, and purchase items to enhance your abilities in this endless combat challenge!
 
 ## How to Play
 1. **Choose Your Character**  
